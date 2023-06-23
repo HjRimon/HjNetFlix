@@ -204,7 +204,7 @@ input[type="radio"]{
 .according input[type="radio"]:checked + label + .content{
    max-width: 740px;
    padding: 30px 20px;
-   max-height: 200px;
+   max-height: 300px;
 }
 .according input[type="radio"]:checked + label::after{
     transform: rotate(135deg);
